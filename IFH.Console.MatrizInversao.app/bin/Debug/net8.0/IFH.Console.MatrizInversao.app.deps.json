@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IFH.Console.MatrizInversao.app/1.0.0": {
+        "runtime": {
+          "IFH.Console.MatrizInversao.app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IFH.Console.MatrizInversao.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
