@@ -59,7 +59,7 @@ for (int i = 0; i < 4; i++)
         Console.WriteLine("\nMatriz após inverter a primeira linha com a quarta coluna:");
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
-                Console.Write(mat[i, j].ToString().PadLeft(5));
+                Console.Write(mat[i, j].ToString().PadLeft(4));
             }
             Console.WriteLine();
         }

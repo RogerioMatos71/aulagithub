@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IFH.Console.MatrizInversao.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72545e63a17df799df01294c0aed1d32b9d6d592")]
 [assembly: System.Reflection.AssemblyProductAttribute("IFH.Console.MatrizInversao.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IFH.Console.MatrizInversao.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
